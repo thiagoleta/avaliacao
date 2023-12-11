@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEe/Mty4PIBsUq0aSgWLzB05Hfj5IDV/vP0A98XLaLXju/iJaHfxjFXPp6xsV7FaUg+C6MtxP7V+WszIOLEpwg==",
+  "success": true,
+  "projectFilePath": "C:\\Confitec\\avaliacao\\ProjetoAPI\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
